@@ -1,1 +1,2 @@
 # game
+The Horror Mad Libs Game is an interactive storytelling project where users create custom horror stories by filling in blanks with their own words. The game uses Pygame to play eerie background music and Pillow (PIL) to display a horror-themed image based on the chosen setting. Once the inputs are collected, they are inserted into a pre-written horror story template, generating a unique and chilling narrative. This project combines Python basics, multimedia integration, and user interaction, making it both engaging and immersive.
